@@ -1,8 +1,9 @@
 chatserver
 imgserver
 fileserver
-tables.sql
+table.sql
 CMakeCache.txt
+Makefile
 
 logs/
 etc/
