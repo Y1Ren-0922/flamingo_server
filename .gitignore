@@ -1,0 +1,11 @@
+chatserver
+imgserver
+fileserver
+tables.sql
+CMakeCache.txt
+
+logs/
+etc/
+*cache
+*.cmake
+CMakeFiles
