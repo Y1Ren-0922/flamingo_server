@@ -1,10 +1,7 @@
-mingo即时通信系统
+Flamingo即时通信系统
 
 项目简介：本系统基于C++语言实现服务端，基于QT实现windows客户端。实现了用户的登陆注册、添加查找好友和群、单人聊天（发送文字、表情、窗口抖动、离线文件）、群组功能（发文字、表情）、修改个人信息、断线重连等功能。
 
-演示视频：
-
-<video src="https://y1ren.top/api/video/flamingo_demonstration.mp4" controls="controls" width="500" height="300"></video>
 
 ## 主要功能介绍
 
